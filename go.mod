@@ -1,4 +1,4 @@
-module github.com/ksassnowski/image-preview-generator
+module github.com/ksassnowski/create-image-placeholder
 
 go 1.14
 
