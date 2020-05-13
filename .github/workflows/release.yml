@@ -36,6 +36,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./dist/preview
-          asset_name: preview
-          asset_content_type: application/octet-stream
+          asset_path: ./dist/create-image-placeholder.tar.gz
+          asset_name: create-image-placeholder.tar.gz
+          asset_content_type: application/gzip
