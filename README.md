@@ -1,8 +1,10 @@
-# A small CLI tool to generate preview images
+# A small CLI tool to generate placeholder images
 
 This is a tiny command line application that generates a base64 encoded preview of an image to be used with progressive image loading. I built this mainly for myself but decided to open source it in case other people might find it useful.
 
 I use this to generate placeholders for static images that don't get handled by the backend (otherwise I would just generate the placeholder there).
+
+![](./preview.png)
 
 ## Installation
 
