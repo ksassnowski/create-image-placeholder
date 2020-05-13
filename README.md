@@ -13,6 +13,7 @@ I use this to generate placeholders for static images that don't get handled by 
 Either download the latest [release binary](https://github.com/ksassnowski/create-image-placeholder/releases) (currently only build for Mac because I'm bad at Github Actions), or install via brew
 
 ```
+brew tap ksassnowski/generate-image-placeholder
 brew install generate-image-placeholder
 ```
 
