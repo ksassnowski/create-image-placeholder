@@ -4,9 +4,9 @@ This is a tiny command line application that generates a base64 encoded preview 
 
 I use this to generate placeholders for static images that don't get handled by the backend (otherwise I would just generate the placeholder there).
 
-<div style="text-align: center">
+<p align="center">
     <img src="./preview.png">
-</div>
+</p>
 
 ## Installation
 
