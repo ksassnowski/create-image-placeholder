@@ -34,7 +34,7 @@ $ preview ./my-image.jpg | pbcopy
 Now you can use it as a placeholder while your real image loads.
 
 ```html
-<img src="data:image/svg+xml;base64,/9j/2wCEAA/xAGiAAABBQEBAQE..." />
+<img src="data:image/png;base64,/9j/2wCEAA/xAGiAAABBQEBAQE..." />
 ```
 
 How to actually _implement_ progressive image loading is out of scope for this readme. There are multiple ways to go about it, however. See the links below for inspiration.
